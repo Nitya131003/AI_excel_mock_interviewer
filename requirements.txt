@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+jinja2
+aiofiles
+requests
+python-dotenv
+reportlab
