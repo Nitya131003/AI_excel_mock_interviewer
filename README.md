@@ -4,7 +4,7 @@ A web application built with **FastAPI** that conducts mock Excel technical inte
 
 ---
 
-## ✅ Features
+## Features
 
 - Randomly selects 5 questions per interview from a larger question pool.
 - Evaluates candidate’s answers using Azure OpenAI GPT API.
@@ -15,7 +15,7 @@ A web application built with **FastAPI** that conducts mock Excel technical inte
 
 ---
 
-## ✅ Tech Stack
+## Tech Stack
 
 - Backend: FastAPI
 - Database: SQLite
@@ -26,7 +26,7 @@ A web application built with **FastAPI** that conducts mock Excel technical inte
 
 ---
 
-## ✅ Setup Instructions
+## Setup Instructions
 
 ### 1. Set up Virtual Environment
 
@@ -111,7 +111,7 @@ http://127.0.0.1:8000
 
 ---
 
-## ✅ Usage
+## Usage
 
 1. Visit homepage.  
 2. Answer 5 randomly selected Excel technical questions.  
